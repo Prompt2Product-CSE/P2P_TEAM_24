@@ -148,6 +148,7 @@ Mobile: 9080236593
 
 Understand the problem.
 Design with purpose.
+
 Adapt to the surprise.
 Build a better experience.
 
